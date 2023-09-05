@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button{
+    @apply px-2 py-3 bg-purple-200 rounded-sm shadow-sm hover:shadow-lg;
+}
